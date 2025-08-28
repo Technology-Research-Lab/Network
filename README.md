@@ -41,7 +41,7 @@
 
 | 주차  | 날짜  | DongWooKim4343 학습 내용 |     iam52 학습 내용     |      Dom1046 학습 내용   |
 | ----- | ----- | ------------------------ | ------------------------ | ------------------------ |
-| 1주차 | 08/31 |                          | Computer Networks and the Internet 1 | 네트워크 연결과 구성요소 |
+| 1주차 | 08/31 |                          | Computer Networks and the Internet | 네트워크 연결과 구성요소 |
 | 2주차 | 09/07 |                          | Application Layer 1 | 네트워크 통신하기 |
 | 3주차 | 09/14 |                          | Application Layer 2 | 계층장비 |
 | 4주차 | 09/21 |                          | Application Layer 3 | 통신을 도와주는 네트워크 주요 기술 |
