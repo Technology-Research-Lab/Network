@@ -37,13 +37,13 @@
 - **교재:**
 - iam52 : Computer Networking A Top-Down Approach
 - Dom1046 : IT 엔지니어를 위한 네트워크 입문 [길벗]
-- DongWookKim4343 : Computer Networking: A Top-Down Approach, 7th Edition
+- DongWookKim4343 : 비전공자를 위한 AWS 클라우드와 네트워크
 
 | 주차  | 날짜  | DongWooKim4343 학습 내용 |     iam52 학습 내용     |      Dom1046 학습 내용   |
 | ----- | ----- | ------------------------ | ------------------------ | ------------------------ |
-| 1주차 | 08/31 | 인터넷의 기초             | Computer Networks and the Internet | 네트워크 연결과 구성요소 |
-| 2주차 | 09/07 |                          | Application Layer 1 | 네트워크 통신하기 |
-| 3주차 | 09/14 |                          | Application Layer 2 | 계층장비 |
+| 1주차 | 08/31 | [인터넷의 기초   ](https://gamma.app/docs/-jl4x4re242rkdzm)          | Computer Networks and the Internet | 네트워크 연결과 구성요소 |
+| 2주차 | 09/07 |             [컴퓨팅](https://gamma.app/docs/AWS--uyebbba1m24bp8d)         | Application Layer 1 | 네트워크 통신하기 |
+| 3주차 | 09/14 |        [클라우드](https://gamma.app/docs/-jltzzg74celnray)               | Application Layer 2 | 계층장비 |
 | 4주차 | 09/21 |                          | Application Layer 3 | 통신을 도와주는 네트워크 주요 기술 |
 | 5주차 | 10/12 |                          | Application Layer 4 | 보안 및 방화벽 |
 | 6주차 | 10/19 |                          | Transport Layer 1 | 이중화 기술 / 로드밸런서 |
