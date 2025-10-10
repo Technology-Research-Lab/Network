@@ -46,9 +46,9 @@
 | 3주차 | 09/14 |        [클라우드](https://gamma.app/docs/-jltzzg74celnray)               | Application Layer 2 | 계층장비 |
 | 4주차 | 09/21 |                          | Application Layer 3 | 통신을 도와주는 네트워크 주요 기술 |
 | 5주차 | 10/12 |                          | Application Layer 4 | 보안 및 방화벽 |
-| 6주차 | 10/19 |                          | Transport Layer 1 | 이중화 기술 / 로드밸런서 |
-| 7주차 | 10/26 |                          | Transport Layer 2 | 네트워크 디자인 |
-| 8주차 | 11/02 |                          | Transport Layer 3 | 가상화 서버를 위한 네트워크 |
+| 6주차 | 10/19 |                          | Application Layer 5 | 이중화 기술 / 로드밸런서 |
+| 7주차 | 10/26 |                          | Application Layer 6 | 네트워크 디자인 |
+| 8주차 | 11/02 |                          | Application Layer 7 | 가상화 서버를 위한 네트워크 |
 
 📢 연락 방법
 
