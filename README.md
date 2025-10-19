@@ -49,9 +49,9 @@
 | 6주차 | 10/19 |                          | Application Layer 5 | 이중화 기술 / 로드밸런서 |
 | 7주차 | 10/26 |                          | Application Layer 6 | 네트워크 디자인 |
 | 8주차 | 11/02 |                          | Application Layer 7 | 가상화 서버를 위한 네트워크 |
-| 9주차 | 11/09 |                          |                     |                     |
-| 10주차 | 11/16 |                         |                     |                     |
-| 11주차 | 11/23 |                         |                     |                     |
+| 9주차 | 11/09 |                          | Application Layer 8 |                     |
+| 10주차 | 11/16 |                         | Application Layer 9 |                     |
+| 11주차 | 11/23 |                         | Application Layer 10 |                     |
 
 📢 연락 방법
 
