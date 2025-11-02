@@ -1,6 +1,6 @@
-package checksum.core.flecher_and_adler_checksum;
+package dom.checksum.core.flecher_and_adler_checksum;
 
-import static checksum.policy.ChecksumData.ORIGIN_DATA;
+import static dom.checksum.policy.ChecksumData.ORIGIN_DATA;
 
 /**
  * 애들러 32비트 체크썸

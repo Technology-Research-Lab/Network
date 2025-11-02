@@ -1,11 +1,11 @@
-package checksum.core.hash_checksum;
+package dom.checksum.core.hash_checksum;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-import static checksum.policy.ChecksumData.DIFFERENT_DATA;
-import static checksum.policy.ChecksumData.ORIGIN_DATA;
+import static dom.checksum.policy.ChecksumData.DIFFERENT_DATA;
+import static dom.checksum.policy.ChecksumData.ORIGIN_DATA;
 
 /**
  * 해시 체크썸

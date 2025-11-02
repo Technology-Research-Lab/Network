@@ -1,7 +1,7 @@
-package checksum.core.simple_checksum;
+package dom.checksum.core.simple_checksum;
 
-import static checksum.policy.ChecksumData.DIFFERENT_DATA;
-import static checksum.policy.ChecksumData.ORIGIN_DATA;
+import static dom.checksum.policy.ChecksumData.DIFFERENT_DATA;
+import static dom.checksum.policy.ChecksumData.ORIGIN_DATA;
 
 /**
  * 단순 가산 체크썸 (검사합 체크썸이라고도 함)

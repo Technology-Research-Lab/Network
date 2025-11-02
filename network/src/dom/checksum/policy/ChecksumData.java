@@ -1,4 +1,4 @@
-package checksum.policy;
+package dom.checksum.policy;
 
 public interface ChecksumData {
     String ORIGIN_DATA = "origin";

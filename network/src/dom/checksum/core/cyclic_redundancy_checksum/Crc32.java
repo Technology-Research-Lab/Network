@@ -1,7 +1,7 @@
-package checksum.core.cyclic_redundancy_checksum;
+package dom.checksum.core.cyclic_redundancy_checksum;
 
-import static checksum.policy.ChecksumData.DIFFERENT_DATA;
-import static checksum.policy.ChecksumData.ORIGIN_DATA;
+import static dom.checksum.policy.ChecksumData.DIFFERENT_DATA;
+import static dom.checksum.policy.ChecksumData.ORIGIN_DATA;
 
 /**
  * 순환 중복 검사 체크썸
